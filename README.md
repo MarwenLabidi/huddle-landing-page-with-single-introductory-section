@@ -1,3 +1,2 @@
-## Welcome to HTML-CSS-PROJECTS
-## I'm using Gitbook for documentation please click on the link below
-# [Gitbook link](https://app.gitbook.com/@labidimarwen6/s/html-css-projects/)
+## Welcome to huddle-landing-page-with-single-introductory-section
+# [Project link](https://marwenez.github.io/huddle-landing-page-with-single-introductory-section/)
